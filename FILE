@@ -1,0 +1,8 @@
+
+Matchers comparation
+[32m  #equal testa se e o mesmo objeto[0m
+[32m  #be testa se e o mesmo objeto[0m
+
+Finished in 0.00217 seconds (files took 0.10583 seconds to load)
+[32m2 examples, 0 failures[0m
+
